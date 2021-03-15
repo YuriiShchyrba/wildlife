@@ -1,1 +1,1 @@
-https://YuriiShchyrba.github.io/gh-pages/
+https://yuriishchyrba.github.io/wildlife/
