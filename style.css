@@ -130,6 +130,7 @@ a:hover{
 
 .button:hover{
     cursor: pointer;
+    background-color:salmon;
 }
 
 .content-button{
@@ -172,7 +173,7 @@ a:hover{
     padding-top: 145px;
 }
 
-.arrows:hover{
+.arrows span:hover{
     cursor: pointer;
 }
 
@@ -252,10 +253,21 @@ a:hover{
     padding: 5px 0 0 13px;
 }
 
-.form_button{
+
+.form_send{
+    background-color:#CD6326;
+    color: #f7f7f7;
+    height: 60px;
+    font: 400 23px/26.95px Roboto;
+    border: none;
     width: 120px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+.form_send:hover{
+    cursor: pointer;
+    background-color:salmon;
 }
 
 footer{
